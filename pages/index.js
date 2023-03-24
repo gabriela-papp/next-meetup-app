@@ -9,7 +9,7 @@ const DUMMY_DATA=[
         address:'123 Some Street, Some Town',
         description:'First MeetUp'
     },{
-          id:'m1',
+          id:'m2',
         title:'Second Local Meetup',
         image:'https://images.unsplash.com/photo-1529260830199-42c24126f198?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80',
         address:'234 Another Street, Another Town',

@@ -14,10 +14,15 @@
     "static/development/_ssgManifest.js"
   ],
   "pages": {
-    "/[meetup-detail]": [
+    "/": [
       "static/chunks/main.js",
       "static/chunks/webpack.js",
-      "static/chunks/pages/[meetup-detail].js"
+      "static/chunks/pages/index.js"
+    ],
+    "/[meetupId]": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/[meetupId].js"
     ],
     "/_app": [
       "static/chunks/main.js",
